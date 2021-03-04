@@ -32,13 +32,19 @@ Dla losowej macierzy 3 na 3, przestuj za pomocą funkcji pomnoz.
 (5) Stosując Gauss2(A) rozwiąż układy równań:
 a)
 x1 + x2 + x3 = 4
+
 x1 − x2 + x3 = 2
+
 x1 + x2 − x3 = 1
 b)
 −2x1 + x2 + x3 = 1
+
 x1 − 2x2 + x3 = 1
+
 x1 + x2 − 2x3 = 1
 c)
 x1 − 2x2 − x3 + 3x4 = 5
+
 2x1 − 4x2 − 2x3 + 6x4 = 10
+
 2x1 + x2 + x4 = 20
